@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MPMG
 - 👀 I’m interested in ...developing practical computing in international schools.
-- 🌱 I’m currently learning ... Python Flask Electronics.
+- 🌱 I’m currently learning about ... Python Flask Electronics GitHub.
 - 💞️ I’m looking to collaborate on ... a large environmental data gathering project.
 - 📫 How to reach me ... michael@herissontech.com
 
